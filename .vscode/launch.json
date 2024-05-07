@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TwitterApplication<Project-Twitter>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.kadir.abdul.twitter.TwitterApplication",
+            "projectName": "Project-Twitter",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
